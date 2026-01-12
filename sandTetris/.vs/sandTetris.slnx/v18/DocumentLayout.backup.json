@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\c#\\SandTetris\\sandTetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F18404E-7896-4424-884B-E06D30CDCC14}|SandTetris\\SandTetris.csproj|d:\\code\\c#\\sandtetris\\sandtetris\\sandtetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F18404E-7896-4424-884B-E06D30CDCC14}|SandTetris\\SandTetris.csproj|solutionrelative:sandtetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F18404E-7896-4424-884B-E06D30CDCC14}|SandTetris\\SandTetris.csproj|D:\\code\\c#\\SandTetris\\sandTetris\\sandtetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F18404E-7896-4424-884B-E06D30CDCC14}|SandTetris\\SandTetris.csproj|solutionrelative:sandtetris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\c#\\SandTetris\\sandTetris\\SandTetris\\Program.cs",
+              "RelativeDocumentMoniker": "SandTetris\\Program.cs",
+              "ToolTip": "D:\\code\\c#\\SandTetris\\sandTetris\\SandTetris\\Program.cs",
+              "RelativeToolTip": "SandTetris\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:51:52.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code\\c#\\SandTetris\\sandTetris\\SandTetris\\Form1.cs",
+              "RelativeDocumentMoniker": "SandTetris\\Form1.cs",
+              "ToolTip": "D:\\code\\c#\\SandTetris\\sandTetris\\SandTetris\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SandTetris\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T20:51:49.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
