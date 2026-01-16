@@ -1,0 +1,9 @@
+D:\code\c#\SandTetris\sandTetris\SandTetris\obj\Debug\SandTetris.csproj.AssemblyReference.cache
+D:\code\c#\SandTetris\sandTetris\SandTetris\obj\Debug\SandTetris.Properties.Resources.resources
+D:\code\c#\SandTetris\sandTetris\SandTetris\obj\Debug\SandTetris.csproj.GenerateResource.cache
+D:\code\c#\SandTetris\sandTetris\SandTetris\obj\Debug\SandTetris.csproj.CoreCompileInputs.cache
+D:\code\c#\SandTetris\sandTetris\SandTetris\bin\Debug\SandTetris.exe.config
+D:\code\c#\SandTetris\sandTetris\SandTetris\bin\Debug\SandTetris.exe
+D:\code\c#\SandTetris\sandTetris\SandTetris\bin\Debug\SandTetris.pdb
+D:\code\c#\SandTetris\sandTetris\SandTetris\obj\Debug\SandTetris.exe
+D:\code\c#\SandTetris\sandTetris\SandTetris\obj\Debug\SandTetris.pdb
